@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mprakashgithub/count.svg" />
+  <img src="https://profile-counter.glitch.me/Dev-AshutoshKumar/count.svg" />
 </p>
 
 ## Hey there :wave:
@@ -18,9 +18,7 @@
 
 <!-- About me-->
 
-I'm Manish Prakash. Community is :heart: | Flutter Developer(from India) and :coffee: lover. 
-
-You can follow me for good stuff related to flutter/tech at [Medium.com](https://medium.com/@mailtomprakash1)
+I'm Ashutosh Kumar. Community is :heart: | Flutter Developer(from India) and :coffee: lover. 
 
 ## Things I am passionate about
 
@@ -29,6 +27,4 @@ You can follow me for good stuff related to flutter/tech at [Medium.com](https:/
 
 ## Get in touch :coffee:
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/manishprakashind)
-- You can email me at mailtomprakash1@gmail.com
-- You can check my [profile](https://mprakashgithub.github.io/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-58a43b184/)
